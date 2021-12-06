@@ -287,3 +287,6 @@ h1 {
 .sound-off {
     background-image: url("soundOff.png");
 }
+.version {
+    position: absolute;
+}
