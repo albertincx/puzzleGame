@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.safiullin.puzzle",
+      "sha256_cert_fingerprints":
+        ["41:34:72:57:89:94:6D:B8:9A:2E:8D:80:D1:D3:BB:E0:1E:49:08:4A:5A:26:EC:6A:89:C6:C5:F7:74:F0:79:5B"]
+    }
+  }
+]
